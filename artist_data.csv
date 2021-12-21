@@ -1,0 +1,4 @@
+﻿artists,acousticness,danceability,duration_ms,energy,explicit,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence
+['Elliot Tempest'],0.15,0.4,259000,0.8,1,0.03,6,0.36,-5,1,0.06,127,0.5
+['Amy Apollo'],0.3,0.55,230000,0.57,0,0.05,5,0.13,-7,1,0.05,123,0.4
+['Pocket Rockets'],0.24,0.47,244000,0.7,0,0.2,4,0.27,-10,1,0.1,128,0.6

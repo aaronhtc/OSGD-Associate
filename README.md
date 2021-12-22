@@ -5,8 +5,6 @@ Your client is G&H Sounds, a medium sized record label who are currently managin
 
 They are unfamiliar with the user base for streaming services and have so sought your expertise to help them decide what music they should release on Spotify.
 
-Detailed below are some metrics about their best performing artists under management. They would like you to help them choose which artist is likely to gain the most popularity. They would also like you to advise them on what type of artist performs best on the platform and what qualities they should keep an eye out for when scouting for new talent.
-
 Metrics about their best performing artists under management are also provided. They would like you to help them choose which artist is likely to gain the most popularity. They would also like you to advise them on what type of artist performs best on the platform and what qualities they should keep an eye out for when scouting for new talent.
 ## Feature Description
 acousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
